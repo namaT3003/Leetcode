@@ -11,8 +11,13 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
