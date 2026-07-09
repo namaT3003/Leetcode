@@ -15,6 +15,7 @@ Used for submitting leetcode practice solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/namaT3003/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Used for submitting leetcode practice solutions
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/namaT3003/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +44,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
