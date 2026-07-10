@@ -21,6 +21,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Used for submitting leetcode practice solutions
 | [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/namaT3003/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -37,6 +39,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/namaT3003/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +61,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
