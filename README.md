@@ -52,5 +52,10 @@ Used for submitting leetcode practice solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
