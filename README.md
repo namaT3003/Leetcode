@@ -9,6 +9,7 @@ Used for submitting leetcode practice solutions
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,28 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
