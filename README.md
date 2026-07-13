@@ -13,6 +13,7 @@ Used for submitting leetcode practice solutions
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
@@ -72,6 +73,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
