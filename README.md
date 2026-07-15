@@ -11,6 +11,7 @@ Used for submitting leetcode practice solutions
 | [0075-sort-colors](https://github.com/namaT3003/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -140,4 +141,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
