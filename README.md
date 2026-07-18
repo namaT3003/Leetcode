@@ -30,6 +30,7 @@ Used for submitting leetcode practice solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/namaT3003/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -52,6 +53,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/namaT3003/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/namaT3003/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/namaT3003/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
