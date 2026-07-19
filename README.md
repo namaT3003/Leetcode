@@ -10,6 +10,7 @@ Used for submitting leetcode practice solutions
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/namaT3003/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/namaT3003/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/namaT3003/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -45,6 +46,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/namaT3003/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/namaT3003/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -58,6 +60,7 @@ Used for submitting leetcode practice solutions
 | [0058-length-of-last-word](https://github.com/namaT3003/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/namaT3003/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/namaT3003/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -93,6 +96,7 @@ Used for submitting leetcode practice solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
