@@ -22,6 +22,7 @@ Used for submitting leetcode practice solutions
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -73,6 +74,7 @@ Used for submitting leetcode practice solutions
 | [0541-reverse-string-ii](https://github.com/namaT3003/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,17 +84,20 @@ Used for submitting leetcode practice solutions
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/namaT3003/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +122,7 @@ Used for submitting leetcode practice solutions
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +185,12 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/namaT3003/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 <!---LeetCode Topics End-->
