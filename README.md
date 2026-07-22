@@ -22,6 +22,7 @@ Used for submitting leetcode practice solutions
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -129,6 +130,7 @@ Used for submitting leetcode practice solutions
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -197,6 +200,7 @@ Used for submitting leetcode practice solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
