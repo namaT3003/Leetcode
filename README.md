@@ -29,6 +29,7 @@ Used for submitting leetcode practice solutions
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/namaT3003/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/namaT3003/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/namaT3003/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -124,6 +125,7 @@ Used for submitting leetcode practice solutions
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/namaT3003/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
