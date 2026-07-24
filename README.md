@@ -34,6 +34,7 @@ Used for submitting leetcode practice solutions
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/namaT3003/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/namaT3003/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/namaT3003/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/namaT3003/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/namaT3003/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -89,6 +90,7 @@ Used for submitting leetcode practice solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/namaT3003/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@ Used for submitting leetcode practice solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/namaT3003/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/namaT3003/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/namaT3003/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
