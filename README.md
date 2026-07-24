@@ -88,6 +88,7 @@ Used for submitting leetcode practice solutions
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Used for submitting leetcode practice solutions
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
