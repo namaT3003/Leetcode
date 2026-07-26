@@ -88,6 +88,7 @@ Used for submitting leetcode practice solutions
 | [0459-repeated-substring-pattern](https://github.com/namaT3003/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0541-reverse-string-ii](https://github.com/namaT3003/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/namaT3003/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/namaT3003/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -105,6 +106,7 @@ Used for submitting leetcode practice solutions
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0771-jewels-and-stones](https://github.com/namaT3003/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
