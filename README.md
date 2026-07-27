@@ -93,6 +93,7 @@ Used for submitting leetcode practice solutions
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/namaT3003/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1678-goal-parser-interpretation](https://github.com/namaT3003/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
