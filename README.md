@@ -29,6 +29,7 @@ Used for submitting leetcode practice solutions
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -92,6 +93,7 @@ Used for submitting leetcode practice solutions
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/namaT3003/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -224,6 +226,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
