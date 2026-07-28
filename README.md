@@ -94,6 +94,7 @@ Used for submitting leetcode practice solutions
 | [0771-jewels-and-stones](https://github.com/namaT3003/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/namaT3003/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/namaT3003/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1678-goal-parser-interpretation](https://github.com/namaT3003/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -123,6 +124,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/namaT3003/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Dynamic Programming
@@ -137,6 +139,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/namaT3003/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
