@@ -25,6 +25,7 @@ Used for submitting leetcode practice solutions
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -73,6 +74,7 @@ Used for submitting leetcode practice solutions
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## String
@@ -183,6 +185,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
