@@ -20,6 +20,7 @@ Used for submitting leetcode practice solutions
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -167,6 +168,7 @@ Used for submitting leetcode practice solutions
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -216,6 +218,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -275,4 +278,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/namaT3003/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 <!---LeetCode Topics End-->
