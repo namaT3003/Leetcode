@@ -38,6 +38,7 @@ Used for submitting leetcode practice solutions
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/namaT3003/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -235,6 +236,7 @@ Used for submitting leetcode practice solutions
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/namaT3003/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -289,9 +291,18 @@ Used for submitting leetcode practice solutions
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/namaT3003/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 <!---LeetCode Topics End-->
