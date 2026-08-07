@@ -179,6 +179,7 @@ Used for submitting leetcode practice solutions
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/namaT3003/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/namaT3003/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -191,6 +192,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -317,4 +319,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/namaT3003/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
