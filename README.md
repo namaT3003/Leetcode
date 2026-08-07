@@ -96,6 +96,7 @@ Used for submitting leetcode practice solutions
 | [0058-length-of-last-word](https://github.com/namaT3003/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/namaT3003/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/namaT3003/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/namaT3003/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -177,6 +178,7 @@ Used for submitting leetcode practice solutions
 | [0013-roman-to-integer](https://github.com/namaT3003/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/namaT3003/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/namaT3003/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
