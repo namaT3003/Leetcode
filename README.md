@@ -27,6 +27,7 @@ Used for submitting leetcode practice solutions
 | [0896-monotonic-array](https://github.com/namaT3003/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -74,6 +75,7 @@ Used for submitting leetcode practice solutions
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/namaT3003/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/namaT3003/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -90,6 +92,7 @@ Used for submitting leetcode practice solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
