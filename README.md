@@ -133,6 +133,7 @@ Used for submitting leetcode practice solutions
 | [2000-reverse-prefix-of-word](https://github.com/namaT3003/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -282,6 +283,7 @@ Used for submitting leetcode practice solutions
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -294,6 +296,7 @@ Used for submitting leetcode practice solutions
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/namaT3003/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
