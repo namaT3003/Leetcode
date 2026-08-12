@@ -206,6 +206,7 @@ Used for submitting leetcode practice solutions
 | [0202-happy-number](https://github.com/namaT3003/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0326-power-of-three](https://github.com/namaT3003/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/namaT3003/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -360,6 +361,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0326-power-of-three](https://github.com/namaT3003/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/namaT3003/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
