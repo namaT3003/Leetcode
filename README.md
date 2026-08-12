@@ -49,6 +49,7 @@ Used for submitting leetcode practice solutions
 | [2923-find-champion-i](https://github.com/namaT3003/Leetcode/tree/main/2923-find-champion-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/namaT3003/Leetcode/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/namaT3003/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/namaT3003/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -295,6 +296,7 @@ Used for submitting leetcode practice solutions
 | [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/namaT3003/Leetcode/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/namaT3003/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/namaT3003/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -317,6 +319,7 @@ Used for submitting leetcode practice solutions
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [3354-make-array-elements-equal-to-zero](https://github.com/namaT3003/Leetcode/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
