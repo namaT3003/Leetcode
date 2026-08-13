@@ -52,6 +52,7 @@ Used for submitting leetcode practice solutions
 | [2923-find-champion-i](https://github.com/namaT3003/Leetcode/tree/main/2923-find-champion-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/namaT3003/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/namaT3003/Leetcode/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/namaT3003/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -163,6 +164,7 @@ Used for submitting leetcode practice solutions
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/namaT3003/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/namaT3003/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Counting
@@ -243,6 +245,7 @@ Used for submitting leetcode practice solutions
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/namaT3003/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ Used for submitting leetcode practice solutions
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/namaT3003/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/namaT3003/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/namaT3003/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
