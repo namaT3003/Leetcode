@@ -40,6 +40,7 @@ Used for submitting leetcode practice solutions
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/namaT3003/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -294,6 +295,7 @@ Used for submitting leetcode practice solutions
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/namaT3003/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -381,6 +383,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/namaT3003/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
