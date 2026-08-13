@@ -36,6 +36,7 @@ Used for submitting leetcode practice solutions
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/namaT3003/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -264,6 +265,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/namaT3003/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/namaT3003/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
