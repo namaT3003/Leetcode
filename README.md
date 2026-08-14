@@ -48,6 +48,7 @@ Used for submitting leetcode practice solutions
 | [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/namaT3003/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2923-find-champion-i](https://github.com/namaT3003/Leetcode/tree/main/2923-find-champion-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -331,6 +332,7 @@ Used for submitting leetcode practice solutions
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/namaT3003/Leetcode/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
