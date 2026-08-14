@@ -218,6 +218,7 @@ Used for submitting leetcode practice solutions
 | [0509-fibonacci-number](https://github.com/namaT3003/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -399,4 +400,8 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
