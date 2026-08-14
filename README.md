@@ -376,6 +376,7 @@ Used for submitting leetcode practice solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/namaT3003/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -404,6 +405,7 @@ Used for submitting leetcode practice solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/namaT3003/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
