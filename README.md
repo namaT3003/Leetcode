@@ -419,6 +419,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/namaT3003/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/namaT3003/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/namaT3003/Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
