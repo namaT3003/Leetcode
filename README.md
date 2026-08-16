@@ -87,6 +87,7 @@ Used for submitting leetcode practice solutions
 | [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/namaT3003/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/namaT3003/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -228,6 +229,7 @@ Used for submitting leetcode practice solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/namaT3003/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -439,4 +441,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namaT3003/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
