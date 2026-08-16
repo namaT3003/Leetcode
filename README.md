@@ -230,6 +230,7 @@ Used for submitting leetcode practice solutions
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/namaT3003/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/namaT3003/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,4 +432,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/namaT3003/Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/namaT3003/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
