@@ -140,6 +140,7 @@ Used for submitting leetcode practice solutions
 | [1108-defanging-an-ip-address](https://github.com/namaT3003/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/namaT3003/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namaT3003/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/namaT3003/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -363,6 +364,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namaT3003/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
