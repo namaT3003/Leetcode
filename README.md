@@ -50,6 +50,7 @@ Used for submitting leetcode practice solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/namaT3003/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -260,6 +261,7 @@ Used for submitting leetcode practice solutions
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/namaT3003/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
