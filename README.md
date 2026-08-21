@@ -11,6 +11,7 @@ Used for submitting leetcode practice solutions
 | [0036-valid-sudoku](https://github.com/namaT3003/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/namaT3003/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/namaT3003/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/namaT3003/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -208,6 +209,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/namaT3003/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/namaT3003/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/namaT3003/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
