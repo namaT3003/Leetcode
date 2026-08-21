@@ -15,6 +15,7 @@ Used for submitting leetcode practice solutions
 | [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/namaT3003/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/namaT3003/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/namaT3003/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -82,6 +83,7 @@ Used for submitting leetcode practice solutions
 | [0202-happy-number](https://github.com/namaT3003/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/namaT3003/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/namaT3003/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -102,6 +104,7 @@ Used for submitting leetcode practice solutions
 | [0179-largest-number](https://github.com/namaT3003/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/namaT3003/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/namaT3003/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/namaT3003/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -173,6 +176,7 @@ Used for submitting leetcode practice solutions
 | [0242-valid-anagram](https://github.com/namaT3003/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/namaT3003/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/namaT3003/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/namaT3003/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -221,6 +225,7 @@ Used for submitting leetcode practice solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
