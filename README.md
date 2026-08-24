@@ -165,6 +165,7 @@ Used for submitting leetcode practice solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2490-circular-sentence](https://github.com/namaT3003/Leetcode/tree/main/2490-circular-sentence/) | Easy |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/namaT3003/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
