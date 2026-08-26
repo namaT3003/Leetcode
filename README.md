@@ -221,6 +221,7 @@ Used for submitting leetcode practice solutions
 | [0392-is-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/namaT3003/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/namaT3003/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,4 +503,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/namaT3003/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/namaT3003/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 <!---LeetCode Topics End-->
