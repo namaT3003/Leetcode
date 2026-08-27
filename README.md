@@ -53,6 +53,7 @@ Used for submitting leetcode practice solutions
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/namaT3003/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -122,6 +123,7 @@ Used for submitting leetcode practice solutions
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/namaT3003/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -238,6 +240,7 @@ Used for submitting leetcode practice solutions
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/namaT3003/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +248,7 @@ Used for submitting leetcode practice solutions
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -397,6 +401,7 @@ Used for submitting leetcode practice solutions
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/namaT3003/Leetcode/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## String Matching
