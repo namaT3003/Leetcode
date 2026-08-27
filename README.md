@@ -32,6 +32,7 @@ Used for submitting leetcode practice solutions
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/namaT3003/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -247,6 +248,7 @@ Used for submitting leetcode practice solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/namaT3003/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
