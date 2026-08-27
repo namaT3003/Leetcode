@@ -57,6 +57,7 @@ Used for submitting leetcode practice solutions
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/namaT3003/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/namaT3003/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2923-find-champion-i](https://github.com/namaT3003/Leetcode/tree/main/2923-find-champion-i/) | Easy |
@@ -212,6 +213,7 @@ Used for submitting leetcode practice solutions
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ Used for submitting leetcode practice solutions
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
