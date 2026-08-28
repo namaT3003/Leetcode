@@ -274,6 +274,7 @@ Used for submitting leetcode practice solutions
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/namaT3003/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/namaT3003/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namaT3003/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -496,6 +497,7 @@ Used for submitting leetcode practice solutions
 | [0234-palindrome-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/namaT3003/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/namaT3003/Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -508,6 +510,7 @@ Used for submitting leetcode practice solutions
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/namaT3003/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namaT3003/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
