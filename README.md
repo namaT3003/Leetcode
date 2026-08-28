@@ -233,6 +233,7 @@ Used for submitting leetcode practice solutions
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/namaT3003/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ Used for submitting leetcode practice solutions
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/namaT3003/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -293,6 +295,7 @@ Used for submitting leetcode practice solutions
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/namaT3003/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Divide and Conquer
@@ -447,6 +450,7 @@ Used for submitting leetcode practice solutions
 | [0070-climbing-stairs](https://github.com/namaT3003/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/namaT3003/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +469,7 @@ Used for submitting leetcode practice solutions
 | [0342-power-of-four](https://github.com/namaT3003/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/namaT3003/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/namaT3003/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
