@@ -376,6 +376,7 @@ Used for submitting leetcode practice solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/namaT3003/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namaT3003/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/namaT3003/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namaT3003/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -507,6 +508,7 @@ Used for submitting leetcode practice solutions
 | [0234-palindrome-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/namaT3003/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/namaT3003/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/namaT3003/Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
