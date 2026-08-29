@@ -43,6 +43,7 @@ Used for submitting leetcode practice solutions
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/namaT3003/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/namaT3003/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -124,6 +125,7 @@ Used for submitting leetcode practice solutions
 | [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/namaT3003/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -242,6 +244,7 @@ Used for submitting leetcode practice solutions
 | [0680-valid-palindrome-ii](https://github.com/namaT3003/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/namaT3003/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/namaT3003/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/namaT3003/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
