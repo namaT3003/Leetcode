@@ -161,6 +161,7 @@ Used for submitting leetcode practice solutions
 | [0771-jewels-and-stones](https://github.com/namaT3003/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/namaT3003/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/namaT3003/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/namaT3003/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -540,4 +541,16 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/namaT3003/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 <!---LeetCode Topics End-->
