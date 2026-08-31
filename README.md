@@ -24,6 +24,7 @@ Used for submitting leetcode practice solutions
 | [0643-maximum-average-subarray-i](https://github.com/namaT3003/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/namaT3003/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/namaT3003/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -397,6 +398,7 @@ Used for submitting leetcode practice solutions
 | [0234-palindrome-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/namaT3003/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/namaT3003/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/namaT3003/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -409,6 +411,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/namaT3003/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/namaT3003/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
