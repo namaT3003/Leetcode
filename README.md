@@ -393,6 +393,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/namaT3003/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/namaT3003/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/namaT3003/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/namaT3003/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -533,6 +534,7 @@ Used for submitting leetcode practice solutions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/namaT3003/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/namaT3003/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
