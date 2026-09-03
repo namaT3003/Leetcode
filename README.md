@@ -186,6 +186,7 @@ Used for submitting leetcode practice solutions
 | [2490-circular-sentence](https://github.com/namaT3003/Leetcode/tree/main/2490-circular-sentence/) | Easy |
 | [2942-find-words-containing-character](https://github.com/namaT3003/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/namaT3003/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/namaT3003/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/namaT3003/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -218,6 +219,7 @@ Used for submitting leetcode practice solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/namaT3003/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/namaT3003/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/namaT3003/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/namaT3003/Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/namaT3003/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
