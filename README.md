@@ -295,6 +295,7 @@ Used for submitting leetcode practice solutions
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2235-add-two-integers](https://github.com/namaT3003/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/namaT3003/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/namaT3003/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
