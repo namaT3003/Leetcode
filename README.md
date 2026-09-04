@@ -45,6 +45,7 @@ Used for submitting leetcode practice solutions
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/namaT3003/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namaT3003/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/namaT3003/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/namaT3003/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/namaT3003/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/namaT3003/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -131,6 +132,7 @@ Used for submitting leetcode practice solutions
 | [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/namaT3003/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/namaT3003/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
