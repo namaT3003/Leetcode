@@ -187,6 +187,7 @@ Used for submitting leetcode practice solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/namaT3003/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/namaT3003/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2490-circular-sentence](https://github.com/namaT3003/Leetcode/tree/main/2490-circular-sentence/) | Easy |
 | [2942-find-words-containing-character](https://github.com/namaT3003/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -269,6 +270,7 @@ Used for submitting leetcode practice solutions
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/namaT3003/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/namaT3003/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/namaT3003/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -432,6 +434,7 @@ Used for submitting leetcode practice solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/namaT3003/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/namaT3003/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/namaT3003/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/namaT3003/Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
@@ -461,6 +464,7 @@ Used for submitting leetcode practice solutions
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namaT3003/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/namaT3003/Leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/namaT3003/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
