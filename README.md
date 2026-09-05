@@ -84,6 +84,7 @@ Used for submitting leetcode practice solutions
 | [3701-compute-alternating-sum](https://github.com/namaT3003/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/namaT3003/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/namaT3003/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3895-count-digit-appearances](https://github.com/namaT3003/Leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/namaT3003/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/namaT3003/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -314,6 +315,7 @@ Used for submitting leetcode practice solutions
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/namaT3003/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namaT3003/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/namaT3003/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3895-count-digit-appearances](https://github.com/namaT3003/Leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/namaT3003/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
