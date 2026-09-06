@@ -261,6 +261,7 @@ Used for submitting leetcode practice solutions
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/namaT3003/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/namaT3003/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/namaT3003/Leetcode/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -588,6 +589,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/namaT3003/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/namaT3003/Leetcode/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
