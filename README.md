@@ -593,20 +593,27 @@ Used for submitting leetcode practice solutions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/namaT3003/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/namaT3003/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/namaT3003/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/namaT3003/Leetcode/tree/main/0705-design-hashset/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/namaT3003/Leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
