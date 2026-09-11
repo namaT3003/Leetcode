@@ -151,6 +151,7 @@ Used for submitting leetcode practice solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/namaT3003/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/namaT3003/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/namaT3003/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namaT3003/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/namaT3003/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/namaT3003/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -255,6 +256,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/namaT3003/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/namaT3003/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/namaT3003/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -471,6 +473,7 @@ Used for submitting leetcode practice solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namaT3003/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -543,6 +546,7 @@ Used for submitting leetcode practice solutions
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namaT3003/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
