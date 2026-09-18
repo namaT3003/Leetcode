@@ -70,6 +70,7 @@ Used for submitting leetcode practice solutions
 | [2500-delete-greatest-value-in-each-row](https://github.com/namaT3003/Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/namaT3003/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/namaT3003/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2923-find-champion-i](https://github.com/namaT3003/Leetcode/tree/main/2923-find-champion-i/) | Easy |
@@ -236,6 +237,7 @@ Used for submitting leetcode practice solutions
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/namaT3003/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/namaT3003/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/namaT3003/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/namaT3003/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
