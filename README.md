@@ -488,6 +488,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0052-n-queens-ii](https://github.com/namaT3003/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namaT3003/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -653,4 +654,8 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/namaT3003/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/namaT3003/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
