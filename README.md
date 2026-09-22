@@ -42,6 +42,7 @@ Used for submitting leetcode practice solutions
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/namaT3003/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/namaT3003/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namaT3003/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -433,6 +434,7 @@ Used for submitting leetcode practice solutions
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/namaT3003/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/namaT3003/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
