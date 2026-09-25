@@ -11,6 +11,7 @@ Used for submitting leetcode practice solutions
 | [0036-valid-sudoku](https://github.com/namaT3003/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/namaT3003/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/namaT3003/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/namaT3003/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/namaT3003/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/namaT3003/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/namaT3003/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -495,6 +496,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/namaT3003/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/namaT3003/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/namaT3003/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -668,5 +670,6 @@ Used for submitting leetcode practice solutions
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/namaT3003/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/namaT3003/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
