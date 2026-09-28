@@ -633,6 +633,7 @@ Used for submitting leetcode practice solutions
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -641,6 +642,7 @@ Used for submitting leetcode practice solutions
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +651,7 @@ Used for submitting leetcode practice solutions
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,6 +662,7 @@ Used for submitting leetcode practice solutions
 | [0100-same-tree](https://github.com/namaT3003/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
