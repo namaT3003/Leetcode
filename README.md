@@ -38,6 +38,7 @@ Used for submitting leetcode practice solutions
 | [0922-sort-array-by-parity-ii](https://github.com/namaT3003/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/namaT3003/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/namaT3003/Leetcode/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/namaT3003/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -236,6 +237,7 @@ Used for submitting leetcode practice solutions
 | [0594-longest-harmonious-subsequence](https://github.com/namaT3003/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/namaT3003/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/namaT3003/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/namaT3003/Leetcode/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/namaT3003/Leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/namaT3003/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -414,6 +416,7 @@ Used for submitting leetcode practice solutions
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0980-unique-paths-iii](https://github.com/namaT3003/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/namaT3003/Leetcode/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1329-sort-the-matrix-diagonally](https://github.com/namaT3003/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/namaT3003/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/namaT3003/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -483,6 +486,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/namaT3003/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/namaT3003/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/namaT3003/Leetcode/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/namaT3003/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/namaT3003/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
