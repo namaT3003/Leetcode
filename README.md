@@ -59,6 +59,7 @@ Used for submitting leetcode practice solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namaT3003/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/namaT3003/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/namaT3003/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/namaT3003/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -332,6 +333,7 @@ Used for submitting leetcode practice solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/namaT3003/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2235-add-two-integers](https://github.com/namaT3003/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/namaT3003/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -524,6 +526,7 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/namaT3003/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/namaT3003/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
