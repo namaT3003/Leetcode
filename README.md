@@ -641,6 +641,7 @@ Used for submitting leetcode practice solutions
 | [0110-balanced-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/namaT3003/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -652,6 +653,7 @@ Used for submitting leetcode practice solutions
 | [0110-balanced-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/namaT3003/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -663,6 +665,7 @@ Used for submitting leetcode practice solutions
 | [0110-balanced-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/namaT3003/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namaT3003/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -694,4 +697,5 @@ Used for submitting leetcode practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/namaT3003/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
