@@ -523,6 +523,7 @@ Used for submitting leetcode practice solutions
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/namaT3003/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2392-build-a-matrix-with-conditions](https://github.com/namaT3003/Leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/namaT3003/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Geometry
