@@ -214,6 +214,7 @@ Used for submitting leetcode practice solutions
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/namaT3003/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/namaT3003/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/namaT3003/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/namaT3003/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/namaT3003/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/namaT3003/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -251,6 +252,7 @@ Used for submitting leetcode practice solutions
 | [3146-permutation-difference-between-two-strings](https://github.com/namaT3003/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/namaT3003/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/namaT3003/Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/namaT3003/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/namaT3003/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/namaT3003/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/namaT3003/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -268,6 +270,7 @@ Used for submitting leetcode practice solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/namaT3003/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namaT3003/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/namaT3003/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/namaT3003/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
