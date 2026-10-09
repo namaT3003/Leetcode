@@ -336,6 +336,7 @@ Used for submitting leetcode practice solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/namaT3003/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/namaT3003/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/namaT3003/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1688-count-of-matches-in-tournament](https://github.com/namaT3003/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/namaT3003/Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/namaT3003/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2235-add-two-integers](https://github.com/namaT3003/Leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -449,6 +450,7 @@ Used for submitting leetcode practice solutions
 | [0832-flipping-an-image](https://github.com/namaT3003/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/namaT3003/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/namaT3003/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/namaT3003/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/namaT3003/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/namaT3003/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/namaT3003/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
