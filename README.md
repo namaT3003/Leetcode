@@ -659,6 +659,7 @@ Used for submitting leetcode practice solutions
 | [0101-symmetric-tree](https://github.com/namaT3003/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/namaT3003/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
@@ -674,6 +675,7 @@ Used for submitting leetcode practice solutions
 | [0101-symmetric-tree](https://github.com/namaT3003/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/namaT3003/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
@@ -689,6 +691,7 @@ Used for submitting leetcode practice solutions
 | [0101-symmetric-tree](https://github.com/namaT3003/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/namaT3003/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/namaT3003/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/namaT3003/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
@@ -706,6 +709,7 @@ Used for submitting leetcode practice solutions
 | [0100-same-tree](https://github.com/namaT3003/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/namaT3003/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/namaT3003/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/namaT3003/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/namaT3003/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
