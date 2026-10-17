@@ -369,6 +369,7 @@ Used for submitting leetcode practice solutions
 | [0029-divide-two-integers](https://github.com/namaT3003/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/namaT3003/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/namaT3003/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/namaT3003/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/namaT3003/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/namaT3003/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/namaT3003/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -385,6 +386,7 @@ Used for submitting leetcode practice solutions
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/namaT3003/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0190-reverse-bits](https://github.com/namaT3003/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/namaT3003/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/namaT3003/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0761-special-binary-string](https://github.com/namaT3003/Leetcode/tree/main/0761-special-binary-string/) | Hard |
 | [0912-sort-an-array](https://github.com/namaT3003/Leetcode/tree/main/0912-sort-an-array/) | Medium |
