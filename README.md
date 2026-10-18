@@ -6,6 +6,7 @@ Used for submitting leetcode practice solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/namaT3003/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/namaT3003/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/namaT3003/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/namaT3003/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
@@ -310,6 +311,7 @@ Used for submitting leetcode practice solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/namaT3003/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/namaT3003/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namaT3003/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/namaT3003/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -384,6 +386,7 @@ Used for submitting leetcode practice solutions
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/namaT3003/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/namaT3003/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0190-reverse-bits](https://github.com/namaT3003/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/namaT3003/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
